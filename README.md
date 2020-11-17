@@ -18,10 +18,10 @@
 ### Skills:
 
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img align="left" src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img align="left" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img align="left" src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<img align="left"  src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> ][webdevplaylist]
 
