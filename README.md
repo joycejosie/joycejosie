@@ -1,6 +1,6 @@
 ### Hello there, I'm Joyce.
 
-### I'm a daughter, artist, and COMPLETELY new in Tech!
+### I'm a student, artist, and COMPLETELY new in Tech!
 - 👩🏽‍🏫 I'm currently enrolled in a bootcamp course called PerScholas where I'm learning, linux terminal(bash and scripting), networking, python, database, and amazon web services.
 - 👩🏽‍💻 I'm currenlty working on some basic code for hardware and software managment <sub><sup>(really considerating sysadmin as a career)</sup></sub>
 - 🙋🏽‍♀️ Looking to collaborate with other coders 
